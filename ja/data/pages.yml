@@ -128,7 +128,7 @@
       url: "customizing-a-components-element"
     - title: "Using Block Params"
       url: "block-params"
-    - title: "Handling Events"
+    - title: "イベントの処理"
       url: "handling-events"
     - title: "Triggering Changes with Actions"
       url: "triggering-changes-with-actions"
